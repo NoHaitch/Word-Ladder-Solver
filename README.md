@@ -4,15 +4,15 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Tucil 3 - Stima</h1>
+  <h1 align="center">Word Ladder Solver</h1>
 
   <p align="center">
-    <h3> Word Ladder Solver</h3>
-    <h4> Using UCS, Greedy Best First Search, and A*</h4>
+    <h3>Tucil 3 - Stima</h3>
+    <h4>Using UCS, Greedy Best First Search, and A*</h4>
     <br/>
-    <a href="https://github.com/NoHaitch/Tucil3_13522091/issues">Report Bug</a>
+    <a href="https://github.com/NoHaitch/Word-Ladder-Solver/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NoHaitch/Tucil3_13522091/issues">Request Feature</a>
+    <a href="https://github.com/NoHaitch/Word-Ladder-Solver/issues">Request Feature</a>
 <br>
 <br>
 
@@ -67,7 +67,7 @@
 
 - [Spesifikasi](https://bit.ly/spektucil3stima24)
 - [QNA](https://bit.ly/qnastima24)
-- [Laporan](https://github.com/NoHaitch/Tucil3_13522091/blob/main/doc/Tucil3_13522091.pdf)
+- [Laporan](https://github.com/NoHaitch/Word-Ladder-Solver/blob/main/doc/Word-Ladder-Solver.pdf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +105,7 @@ Project dependencies
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NoHaitch/Tucil3_13522091
+   git clone https://github.com/NoHaitch/Word-Ladder-Solver
    ```
 2. Build java file
    ```sh
@@ -176,6 +176,6 @@ The code in this project is licensed under MIT license.
 <h3 align="center"> THANK YOU! </h3>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-url]: https://github.com/NoHaitch/Tucil3_13522091/issues
+[issues-url]: https://github.com/NoHaitch/Word-Ladder-Solver/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow
-[license-url]: https://github.com/NoHaitch/Tucil3_13522091/blob/main/LICENSE
+[license-url]: https://github.com/NoHaitch/Word-Ladder-Solver/blob/main/LICENSE
